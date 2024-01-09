@@ -1,2 +1,5 @@
-# django-custom-admin
-Django Custom Admin Snippets
+# Django Custom Admin Snippets
+
+## Hook to intersect change password
+
+
